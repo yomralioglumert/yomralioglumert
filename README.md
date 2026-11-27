@@ -11,6 +11,8 @@ Distributed Systems · Cloud & Edge · AI Engineering
 
 </div>
 
+<img src="assets/time-circuits.svg" alt="Time circuits — Istanbul time, updated hourly" width="100%" />
+
 ## 01 / SYSTEM IDENTIFICATION
 
 ```yaml
@@ -22,12 +24,14 @@ mission: Engineering the Future
 
 ## 02 / FLUX CAPACITOR
 
-| Core systems | Infrastructure |
-| :--- | :--- |
-| .NET / C# | Docker / Linux |
-| PostgreSQL | Cloud & Edge Computing |
-| Apache Kafka | Infrastructure Automation |
-| Redis | AI Agent Orchestration |
+<img src="assets/flux-capacitor.svg" alt="Core technologies and infrastructure" width="100%" />
+
+## 03 / ENGINEERING DIRECTIVES
+
+- Distributed systems & event-driven architecture
+- Backend engineering & database systems
+- Cloud & edge infrastructure
+- AI agent orchestration & automation
 
 ---
 
