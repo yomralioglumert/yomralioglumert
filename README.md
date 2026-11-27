@@ -35,11 +35,11 @@ mission: Engineering the Future
 
 ## 04 / ACTIVE MISSIONS
 
-| Mission | Objective |
-| --- | --- |
-| **Hill Valley** | Multi-agent AI orchestration and autonomous engineering workflows — in development |
-| **PostgresDiffInspector** | PostgreSQL schema inspection and comparison |
-| **ParallelScp** | Parallel file transfer utility |
+<img src="assets/mission-1.svg" width="100%" alt="Hill Valley — multi-agent orchestration, in development" />
+
+<img src="assets/mission-2.svg" width="100%" alt="PostgresDiffInspector — schema comparison" />
+
+<img src="assets/mission-3.svg" width="100%" alt="ParallelScp — parallel file transfer" />
 
 ## 05 / TELEMETRY
 
@@ -56,3 +56,5 @@ mission: Engineering the Future
 **OUTATIME // THE FUTURE IS WHAT YOU MAKE IT.**
 
 </div>
+
+<img src="assets/fire-trails.svg" width="100%" alt="OUTATIME — end of transmission" />
